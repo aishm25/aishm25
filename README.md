@@ -13,13 +13,13 @@ I have completed a Master’s in Data Architecture and Management and currently 
 
 💻 **Skills:**
 
-SQL  
-Python  
-Databricks  
-Azure Data Factory  
-Azure Data Lake  
-AWS  
-ETL / ELT Pipelines  
-Data Modeling  
-Analytics Engineering  
-Power BI  
+- SQL, PL/SQL, T-SQL  
+- Python, PySpark  
+- Databricks  
+- Azure (ADF, ADLS), GCP (BigQuery)  
+- Data Warehousing & Data Modeling  
+- ETL / ELT Pipelines  
+- Relational & NoSQL Databases  
+- Power BI, Tableau  
+- Git  
+
