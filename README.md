@@ -14,7 +14,7 @@ I have completed a Master’s in Data Architecture and Management and currently 
 💻 **Skills:**
 
 SQL  
-PySpark  
+Python  
 Databricks  
 Azure Data Factory  
 Azure Data Lake  
