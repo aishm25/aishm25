@@ -9,6 +9,7 @@ I have completed a Master’s in Data Architecture and Management and currently 
 👀 I’m interested in Data Engineering & Analytics Engineering  
 🌱 I’m currently working as a BI Developer and strengthening my Data Engineering skill set  
 📈 I’m focused on developing strong data engineering foundations through practical projects.
+
 📫 How to reach me: aishm2595@gmail.com
 
 💻 **Skills:**
